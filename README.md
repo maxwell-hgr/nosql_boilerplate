@@ -5,6 +5,10 @@ Este é um **boilerplate** para construção de APIs **NoSQL** utilizando **Java
 
 O objetivo é servir como um ponto de partida para projetos que precisam de uma API flexível, escalável e de fácil manutenção.
 
+## Funcionalidades
+- **CRUD** completo de usuários.  
+- **Persistência** em banco *NoSQL*.
+
 ## Tecnologias Utilizadas
 - **Java 21**
 - **Spring Boot**
